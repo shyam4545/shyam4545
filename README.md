@@ -67,18 +67,29 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shyam4545&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats" />
+    src="https://github-readme-stats.vercel.app/api?username=shyam4545&show_icons=true"
+    alt="GitHub Stats"
+  />
 </p>
+
 
 ---
 ## 🐍 Contribution Snake
 
-<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shyam4545/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shyam4545/output/github-contribution-grid-snake.svg"
+  />
   <img
+    alt="Contribution Snake Animation"
     src="https://raw.githubusercontent.com/shyam4545/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake" />
-</p>
+  />
+</picture>
 
 ## 📈 Contribution Activity Graph
 
