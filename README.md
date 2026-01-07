@@ -73,6 +73,17 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shyam4545/output/github-contribution-grid-snake-dark.svg" />
+</p>
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=shyam4545&theme=tokyonight" />
+</p>
+
 
 ## 🌐 Connect With Me
 - 📧 Email: **shyamjeeroy@gmail.com**
