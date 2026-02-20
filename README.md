@@ -103,8 +103,8 @@
 
 ## 🌐 Connect With Me
 - 📧 Email: **shyamjeeroy@gmail.com**
-- 💼 LinkedIn: **Shyam Jee Rai**
-- 🌍 Portfolio: *coming soon*
+- 💼 LinkedIn: **https://www.linkedin.com/in/shyam-jee-rai-5a3493292/**
+- 🌍 Portfolio: **https://shyamjeerai.in/**
 
 ---
 
